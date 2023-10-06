@@ -37,4 +37,4 @@ python3 bake_crumbs.py -Ppath_to_crumbs -k
 - Crumb directory: The `assets/media/crumbs/en` folder.
 - `crumbs.json`: The actual file Yukon reads crumbs from.
 
-Made with <3 by Mark.
+Made with 💝 by Mark.
